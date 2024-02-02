@@ -2,40 +2,40 @@
 
 ### Project Description
 
-Cozy Cup Cafe is a web application designed to facilitate the management of a small cafe. It provides tools for managing orders, inventory, staff, and customer relationships.
+Cozy Cup Cafe is a web application designed to facilitate the management of a small cafe. It provides tools for managing orders, staff, and customer relationships.
 
 ### Features
 
-  - **Order Management:** Easily take and track customer orders.
+  - **Home:** Welcome to our cafe, featuring a display of popular pastries and beverages.
 
-  - **Inventory Management:** Keep track of stock levels and receive alerts for low inventory. 
+  - **Menu:** Explore our selection of cafe beverages and pastries, categorized for easy browsing.
 
-  - **Staff Management:** Assign roles, schedules, and tasks to staff members.
+  - **About Us:** Learn about our cafe's origins, mission, team, and aspirations.
   
-  - **Reporting:** Generate reports on sales, inventory, and staff performance.
+  - **Contact Us:** Get in touch with us through our contact form, or find our location, phone number, and email for inquiries.
 
 ### Screen Captures
 
   
 
-![img1](https://cdn.dribbble.com/userupload/4383373/file/original-a9ad0a28521adf42eadb088cd39d592b.jpg?resize=1200x900)
+![img1](feature/image1.png)
 
-The dashboard provides an overview of key metrics such as sales, orders, and inventory levels.
-
-
-![img2](https://i.pinimg.com/originals/d0/85/2b/d0852b3b691cb8e3039434da475a32bd.png)
-
-Efficiently manage incoming orders, mark them as completed, and track their status.
+This image showcases the welcoming Home Page of our cafe website, featuring a display of our popular pastries and beverages.
 
 
-![img3](https://cdn.dribbble.com/users/935474/screenshots/11645196/media/e0d7ab8b2d1a9961506a4fb481c4619b.png)
+![img2](feature/image2.png)
 
-Monitor inventory levels, receive notifications for low stock, and manage supplier information.
+In this image, you can see our Menu section, where customers can explore our diverse selection of cafe beverages and pastries, conveniently categorized for easy browsing.
 
 
-![img4](https://cdn.dribbble.com/userupload/11870469/file/original-622f3c3311764ed46327da6b61830f83.png?resize=1200x900)
+![img3](feature/image3.png)
 
-Generate reports on various aspects of the cafe's operations, such as sales trends, inventory analysis, and staff performance.
+Here's a glimpse of our About Us page, where visitors can learn about the origins, mission, team, and aspirations of our cafe.
+
+
+![img4](feature/image4.png)
+
+This image displays our Contact Us section, providing visitors with various ways to get in touch with us, including a contact form, our location, phone number, and email for 
 
 
 ## About the Authors
